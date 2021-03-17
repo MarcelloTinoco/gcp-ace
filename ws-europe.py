@@ -10,7 +10,7 @@ class MyServer(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-type", "text/html")
         self.end_headers()
-        self.wfile.write(bytes("200 - OK ASIA", "utf-8"))
+        self.wfile.write(bytes("200 - OK EUROPE", "utf-8"))
         
 
 if __name__ == "__main__":        
