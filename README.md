@@ -1,5 +1,5 @@
 # gcp-ace
-Files and Scripts to GCP ACE
+Scripts used on startup scritps GCE - GCP ACE
 
 # Startup Scripts
 
